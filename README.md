@@ -1,7 +1,6 @@
 # Excel Data Analytics & Transformation Portfolio
 
-Welcome to my data portfolio. This repository showcases my practical skills in taking raw, unorganized, or multi-source datasets and using Excel and Power Query to clean, consolidate, and model them for operational business use.
-
+Welcome to my data portfolio. This repository showcases my practical skills in taking raw, unorganized, or multi-source datasets and using Excel and Power Query to clean, consolidate, and model them for operational business use. These projects were completed as part of a self-guided upskilling initiative, where I followed step-by-step technical tutorials to learn and apply foundational data transformation workflows.
 ---
 
 ## 📊 1. Costco Branch Data Consolidation
